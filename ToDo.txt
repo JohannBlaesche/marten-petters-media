@@ -1,0 +1,15 @@
+
+- cooming soon
+- Template raussuchen und nachbauen
+- 404
+
+zu klären:
+- Bilder (+Logo)
+- Schriftart
+- Farben
+- Videos
+
+
+bei Gelegenheit:
+- deploy beim pushen auf github
+- kanonischer Link: <link rel=“canonical“ href=“https://www.seite.de/dieine/“/> https://www.searchmetrics.com/de/glossar/canonical-tag/
